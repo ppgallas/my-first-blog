@@ -25,7 +25,7 @@ SECRET_KEY = 'cn@^ofw5^my*^_e-j2t0fn2b^p9x0)$j$&tyvu3m($6vd86a$b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ppgallas.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
