@@ -2,9 +2,9 @@
 
 This is my take on Django Girls Tutorial in Django. 
 
-You can watch the site working on www.ppgallas.pythonanywhere.com but not with all the functionalities.
+You can watch the site working on ppgallas.pythonanywhere.com but not with all the functionalities, due to limitations of pythonanywhere free version of hosting.
 
-I migrated the database to PostgreSQL, so pythonanywhere won't handle it in free version.
+I migrated the database to PostgreSQL, so pythonanywhere won't handle it now.
 
 I applied some more functionalities, so now it is possible to:
 
